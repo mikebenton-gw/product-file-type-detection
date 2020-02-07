@@ -4,7 +4,7 @@
       description: Detects the real file type of a file.
       version: 0.1.9
     servers:
-      - url: https://glasswall-file-drop-api.azurewebsites.net
+      - url: https://glasswall-file-drop-detection-api.azurewebsites.net/
         description: File Type Detection API GW Hosted
     paths:
       /api/sas/FileTypeDetection:
