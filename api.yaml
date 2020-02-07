@@ -5,7 +5,9 @@
       version: 0.1.9
     servers:
       - url: https://igjg14zxy0.execute-api.us-east-2.amazonaws.com/
-        description: File Type Detection API GW Hosted
+        description: AWS
+      - url: https://gw-engine-filetypedetection.azurewebsites.net/
+        description: Azure
     paths:
       /api/FileTypeDetection:
         post:
