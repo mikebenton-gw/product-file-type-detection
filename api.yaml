@@ -17,7 +17,7 @@
           description: Returns the file type detected by the Glasswall Engine.
           parameters:
             - in: header
-              name: x-amazon-apigateway-api-key-source
+              name: x-api-key
               schema:
                 type: string
               required: true
