@@ -6,6 +6,8 @@
     servers:
       - url: https://igjg14zxy0.execute-api.us-east-2.amazonaws.com/
         description: AWS
+      - url: https://xugc5ib648.execute-api.eu-west-1.amazonaws.com/Prod/
+        description: AWS (Dinis)
       - url: https://gw-engine-filetypedetection.azurewebsites.net/
         description: Azure
     paths:
