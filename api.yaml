@@ -7,7 +7,7 @@
       - url: https://gw-engine-filetypedetection.azurewebsites.net/
         description: File Type Detection API GW Hosted
     paths:
-      /api/sas/FileTypeDetection:
+      /api/FileTypeDetection:
         post:
           summary: Returns a file type for the given file.
           description: Returns the file type detected by the Glasswall Engine.
