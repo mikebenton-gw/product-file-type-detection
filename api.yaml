@@ -4,7 +4,7 @@
       description: Detects the real file type of a file.
       version: 0.1.9
     servers:
-      - url: https://igjg14zxy0.execute-api.us-east-2.amazonaws.com/api/FileTypeDetection/
+      - url: https://igjg14zxy0.execute-api.us-east-2.amazonaws.com/
         description: File Type Detection API GW Hosted
     paths:
       /api/FileTypeDetection:
