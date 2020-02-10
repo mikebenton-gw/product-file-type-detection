@@ -15,7 +15,7 @@
 
 - In order to get started with this product, ensure you have a valid api key, which can be purchased from on our webstore.
 - Browse the site, see "How to run locally" if needed
-- On this page there will be a 'Try it out' button, click on this.
+- On this page click on the 'Try it out' button, this will allow you to configure the request.
 - Enter the key you received when purchasing the product into x-api-key field
 - Click on 'Browse' to upload a file from your local computer
 - When ready, click execute.
