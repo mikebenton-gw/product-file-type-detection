@@ -16,7 +16,7 @@ The Glasswall File Type Detection Product makes it easy and simple to avoid the 
 ### Getting Started 
 - In order to get started with this product, ensure you have purchased a license key on our webstore.
 - Navigate to https://filetrust.github.io/product-file-type-detection/#/default/post_api_FileTypeDetection
-- On this page there will be a 'Try it out' button, click on this.
+- On this page click the 'Try it out' button to start editing the request.
 - Enter the key you received when purchasing the product into x-api-key field
 - Click on 'Browse' to upload a file from your local computer
 - When ready, click execute.
