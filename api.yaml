@@ -1,6 +1,6 @@
     openapi: 3.0.0
     info:
-      title: File Type Detection API (using API Key)
+      title: File Type Detection API
       description: Detects the real file type of a file.
       version: 0.1.9
     servers:
