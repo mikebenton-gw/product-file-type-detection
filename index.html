@@ -49,12 +49,18 @@
         plugins: [
           SwaggerUIBundle.plugins.DownloadUrl
         ],
-        layout: "StandaloneLayout"
+        layout: "StandaloneLayout",
+		onComplete: function() {
+		setTimeout(function() {
+	  	  document.querySelector(".try-out button").click();		
+		  }, 400);
+		}
       })
       // End Swagger UI call region
 
-      window.ui = ui
+      window.ui = ui;
     }
+	
   </script>
   </body>
 </html>
