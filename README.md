@@ -47,3 +47,7 @@
 - [Shakespeare in a zip in a rar, hidden in an image on twitter](https://hackaday.com/2018/11/07/shakespeare-in-a-zip-in-a-rar-hidden-in-an-image-on-twitter)
   - https://twitter.com/David3141593/status/1057042085029822464
   - https://twitter.com/David3141593/status/1057609354403287040
+
+## Have any questions?
+
+- Check out our [FAQ](https://github.com/filetrust/product-file-type-detection/blob/master/faq.md)
