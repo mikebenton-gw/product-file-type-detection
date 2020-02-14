@@ -1,6 +1,6 @@
 # Glasswall File Type Detection Drop
 
-Simple single page application written in react, which allows users to have a file type detected with the Glasswall d-First Engine.
+Simple single page application written in react, which allows users to have a file type detected with the Glasswall d-First Engine. This is a user friendly site that allows users to upload one or more files. Zip files can be uploaded to have their contents detected.
 
 ## Try it out
 You can view a live demo over [here](https://glasswall-file-type-detection.azurewebsites.net/)
