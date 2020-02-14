@@ -1,5 +1,5 @@
 {
-  "homepage": "http://product-file-type-detection.github.io/glasswall-file-type-detection",
+  "homepage": "http://filetrust.github.io/glasswall-file-type-detection",
   "name": "glasswall-file-type-detection",
   "version": "0.1.0",
   "private": true,
