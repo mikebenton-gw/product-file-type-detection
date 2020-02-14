@@ -22,3 +22,7 @@ Tests can be run locally with `npm test`
 ## Deployment
 
 Deployment is handled via Azure DevOps pipelines. Upon pushing to master a Build will take place, packaging up the application with Docker and pushing the image to an Azure Container Registry. Once the CI build has been completed a Release will upload the lastest docker image to the App Service running the React App.
+
+## FAQ
+
+https://github.com/filetrust/product-file-type-detection/blob/master/faq.md
