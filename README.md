@@ -47,6 +47,12 @@
 - [Shakespeare in a zip in a rar, hidden in an image on twitter](https://hackaday.com/2018/11/07/shakespeare-in-a-zip-in-a-rar-hidden-in-an-image-on-twitter)
   - https://twitter.com/David3141593/status/1057042085029822464
   - https://twitter.com/David3141593/status/1057609354403287040
+- [Beside GIFAR are there any other known polyglot files?](https://security.stackexchange.com/questions/116819/beside-gifar-are-there-any-other-known-polyglot-files)
+  - [Gifar](https://en.wikipedia.org/wiki/Gifar) (Wikipedia)
+  - [A photo that can steal your online credentials](https://www.infoworld.com/article/2653025/a-photo-that-can-steal-your-online-credentials.html)
+  - [On GIFARs](http://heasman.blogspot.com/2008/08/on-gifars.html)
+  - [Java JAR Attacks and Features](https://www.gnucitizen.org/blog/java-jar-attacks-and-features/)
+
 
 ## Have any questions?
 
