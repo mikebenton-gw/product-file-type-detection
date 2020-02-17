@@ -137,32 +137,36 @@ body {
   padding-bottom: 4rem;
 }
 
-.table-container {
-  min-width: 30rem;
-  margin: 0 1rem;
-  border: 1px solid $greyBlue;
-  border-radius: 0.6rem;
-  background-color: $white;
-  overflow: hidden;
-}
+.filedrop {
 
-table {
-  width: 100%;
-  border-collapse: separate;
-  padding: 0.6rem 1rem;
-  line-height: 2.6rem;
-  text-align: left;
-  font-size: 1.6rem;
-}
+  .table-container {
+    min-width: 30rem;
+    margin: 0 1rem;
+    border: 1px solid $greyBlue;
+    border-radius: 0.6rem;
+    background-color: $white;
+    overflow: hidden;
+  }
 
-td,
-th {
-  padding-left: 10px;
-  text-align: left;
-}
+  table {
+    width: 100%;
+    border-collapse: separate;
+    padding: 0.6rem 1rem;
+    line-height: 2.6rem;
+    text-align: left;
+    font-size: 1.6rem;
+  }
 
-th {
-  font-weight: normal;
+  td,
+  th {
+    padding-left: 10px;
+    text-align: left;
+  }
+
+  th {
+    font-weight: normal;
+  }
+
 }
 
 .has-issues {

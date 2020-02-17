@@ -257,7 +257,7 @@ body {
 .analysis-results {
   padding-bottom: 4rem; }
 
-.table-container {
+.filedrop .table-container {
   min-width: 30rem;
   margin: 0 1rem;
   border: 1px solid #a1b5bf;
@@ -265,7 +265,7 @@ body {
   background-color: white;
   overflow: hidden; }
 
-table {
+.filedrop table {
   width: 100%;
   border-collapse: separate;
   padding: 0.6rem 1rem;
@@ -273,12 +273,12 @@ table {
   text-align: left;
   font-size: 1.6rem; }
 
-td,
-th {
+.filedrop td,
+.filedrop th {
   padding-left: 10px;
   text-align: left; }
 
-th {
+.filedrop th {
   font-weight: normal; }
 
 .has-issues {

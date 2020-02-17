@@ -12,7 +12,7 @@ function App() {
 
     return (
       <>
-        <div className="app">
+        <div className="app file-drop">
           <div className="app-header">
             <div className="logo"><img src={logo} alt="Logo" height="90" /></div>
           </div>
