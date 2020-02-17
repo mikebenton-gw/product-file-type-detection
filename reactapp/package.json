@@ -50,6 +50,7 @@
     "react-dom": "^16.12.0",
     "react-loader-spinner": "^3.1.5",
     "react-promise-tracker": "^2.0.5",
+    "react-router-dom": "^5.1.2",
     "react-transition-group": "^4.3.0",
     "react-xml-parser": "^1.1.3",
     "resolve": "1.12.0",
@@ -58,6 +59,7 @@
     "sass-loader": "7.2.0",
     "semver": "6.3.0",
     "style-loader": "1.0.0",
+    "swagger-ui-react": "^3.25.0",
     "terser-webpack-plugin": "1.4.1",
     "tippy": "0.0.0",
     "tippy.js": "^5.2.1",
@@ -68,13 +70,16 @@
     "webpack-manifest-plugin": "2.1.1",
     "workbox-webpack-plugin": "4.3.1"
   },
+  "homepage": "http://filetrust.github.io/product-file-type-detection",
   "scripts": {
     "build-css": "node-sass --include-path ./src/ --include-path ./node_modules src/sass -o src/",
     "watch-css": "npm run build-css && node-sass --include-path ./src --include-path ./node_modules src/sass -o src/ --watch --recursive",
     "start": "npm-run-all -p watch-css start-js",
     "build": "npm run build-css && node scripts/build.js",
     "start-js": "node scripts/start.js",
-    "test": "node scripts/test.js"
+    "test": "node scripts/test.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
